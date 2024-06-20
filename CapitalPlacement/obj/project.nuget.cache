@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mEVS2iMZoqwt6I+hBp0oB8nqSDAOkZZFEumzuwPbj43et4JeBjUuF2ZENSYTdpJabGxr2N2GHxuXTz+vDRKZtg==",
+  "dgSpecHash": "lGFWKqdWmju+zHIcR4Ulbn83eYYEuvBWyNf6uxU7hiSIOs6k2TyEQb2uoHP3AdCaZ2A8buSC3cmVjwrwAxHAHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj",
+  "projectFilePath": "c:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CJAY\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\CJAY\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

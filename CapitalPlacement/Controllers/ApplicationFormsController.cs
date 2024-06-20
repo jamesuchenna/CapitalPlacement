@@ -3,7 +3,7 @@
 namespace CapitalPlacement.Controllers;
 
 [ApiController]
-[Route("[api/applicationForms]")]
+[Route("api/applicationForms")]
 public class ApplicationFormController : ControllerBase
 {
     private readonly IApplicationFormRepository _applicationRepository;

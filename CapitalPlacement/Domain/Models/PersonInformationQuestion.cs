@@ -56,7 +56,7 @@ public class Question
     public string? Text { get; set; }
     
     [JsonProperty("type")]
-    public int? Type { get; set; }
+    public QuestionType Type { get; set; }
     
     [JsonProperty("options")]
     public List<string> Options { get; set; } = new List<string>();

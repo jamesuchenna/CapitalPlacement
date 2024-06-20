@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj": {}
+    "c:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj": {
+    "c:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj",
+        "projectUniqueName": "c:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj",
         "projectName": "CapitalPlacement",
-        "projectPath": "C:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj",
+        "projectPath": "c:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement.csproj",
         "packagesPath": "C:\\Users\\CJAY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\obj\\",
+        "outputPath": "c:\\Users\\CJAY\\source\\repos\\CapitalPlacement\\CapitalPlacement\\CapitalPlacement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CJAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
