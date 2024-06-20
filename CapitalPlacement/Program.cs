@@ -5,6 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
 // Add services to the container.
 builder.Services.AddScoped<IProgramRepository, ProgramRepository>();
+builder.Services.AddAutoMapper(typeof(ProgramMappings));
+
 
 builder.Services.AddSingleton((provider) =>
                 {
